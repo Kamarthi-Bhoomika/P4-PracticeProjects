@@ -1,0 +1,16 @@
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\RainbowSchoolTest.exe.config
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\RainbowSchoolTest.exe
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\RainbowSchoolTest.pdb
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\nunit.framework.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\nunit.framework.xml
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\obj\Debug\RainbowSchoolTest.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\obj\Debug\RainbowSchoolTest.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\obj\Debug\RainbowSchoolTest.csproj.CopyComplete
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\obj\Debug\RainbowSchoolTest.exe
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\obj\Debug\RainbowSchoolTest.pdb
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\NUnit3.TestAdapter.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\nunit.engine.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\nunit.engine.api.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\nunit.engine.core.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchoolTest\RainbowSchoolTest\bin\Debug\testcentric.engine.metadata.dll

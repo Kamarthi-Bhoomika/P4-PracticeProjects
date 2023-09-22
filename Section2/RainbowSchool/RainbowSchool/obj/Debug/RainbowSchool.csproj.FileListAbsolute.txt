@@ -1,0 +1,9 @@
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\bin\Debug\RainbowSchool.pdb
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\bin\Debug\nunit.framework.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\bin\Debug\nunit.framework.xml
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.csproj.CopyComplete
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.dll
+D:\Mphasis\.net\Phase4\SelfLearning\PracticeProjects\Section2\RainbowSchool\RainbowSchool\obj\Debug\RainbowSchool.pdb
